@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Yo yo what's good homie"
+:wq
+
